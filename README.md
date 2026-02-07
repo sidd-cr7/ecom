@@ -1,6 +1,5 @@
 RTW Shop - eCommerce Site in Django Python
 
-Developed By Team NexusHaven
 Instructions
 Install the Requirements: pip install -r requirements.txt
 Then, make database migrations: python manage.py makemigrations
